@@ -5,3 +5,4 @@
 4. Add Length https://www.codewars.com/kata/559d2284b5bb6799e9000047/train/javascript
 5. Convert a Boolean to a String https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/javascript
 6.  Geometry Basics: Distance between points in 2D https://www.codewars.com/kata/58dced7b702b805b200000be/train/javascript
+7. Return to Sanity https://www.codewars.com/kata/514a7ac1a33775cbb500001e/train/javascript
