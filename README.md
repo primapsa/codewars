@@ -7,3 +7,4 @@
 6.  Geometry Basics: Distance between points in 2D https://www.codewars.com/kata/58dced7b702b805b200000be/train/javascript
 7. Return to Sanity https://www.codewars.com/kata/514a7ac1a33775cbb500001e/train/javascript
 8. Is n divisible by x and y https://www.codewars.com/kata/5545f109004975ea66000086/javascript
+9. Price of Mangoes https://www.codewars.com/kata/57a77726bb9944d000000b06/javascript
