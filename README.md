@@ -10,3 +10,4 @@
 9. Price of Mangoes https://www.codewars.com/kata/57a77726bb9944d000000b06/javascript
 10. Unfinished Loop - Bug Fixing #1 https://www.codewars.com/kata/55c28f7304e3eaebef0000da/javascript
 11. Square(n) Sum https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript
+12. Fun with ES6 Classes #1 - People, people, people https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/javascript
