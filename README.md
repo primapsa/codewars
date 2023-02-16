@@ -9,3 +9,4 @@
 8. Is n divisible by x and y https://www.codewars.com/kata/5545f109004975ea66000086/javascript
 9. Price of Mangoes https://www.codewars.com/kata/57a77726bb9944d000000b06/javascript
 10. Unfinished Loop - Bug Fixing #1 https://www.codewars.com/kata/55c28f7304e3eaebef0000da/javascript
+11. Square(n) Sum https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript
