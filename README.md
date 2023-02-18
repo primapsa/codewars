@@ -13,3 +13,4 @@
 12. Fun with ES6 Classes #1 - People, people, people https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/javascript
 13. Quarter of the year https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript
 14. The 'if' function https://www.codewars.com/kata/54147087d5c2ebe4f1000805/train/javascript
+15. ASCII Total https://www.codewars.com/kata/572b6b2772a38bc1e700007a/train/javascript
