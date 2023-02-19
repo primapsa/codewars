@@ -14,3 +14,6 @@
 13. Quarter of the year https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript
 14. The 'if' function https://www.codewars.com/kata/54147087d5c2ebe4f1000805/train/javascript
 15. ASCII Total https://www.codewars.com/kata/572b6b2772a38bc1e700007a/train/javascript
+16. - Bubblesort Once https://www.codewars.com/kata/56b97b776ffcea598a0006f2/train/javascript
+17. Find out whether the shape is a cube https://www.codewars.com/kata/58d248c7012397a81800005c/train/javascript
+
