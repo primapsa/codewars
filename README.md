@@ -17,4 +17,5 @@
 16. - Bubblesort Once https://www.codewars.com/kata/56b97b776ffcea598a0006f2/train/javascript
 17. Find out whether the shape is a cube https://www.codewars.com/kata/58d248c7012397a81800005c/train/javascript
 18. Function 1 - hello world https://www.codewars.com/kata/523b4ff7adca849afe000035/train/javascript
+19. All Star Code Challenge #18 https://www.codewars.com/kata/5865918c6b569962950002a1/train/javascript
 
