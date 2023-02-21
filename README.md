@@ -20,4 +20,5 @@
 19. All Star Code Challenge #18 https://www.codewars.com/kata/5865918c6b569962950002a1/train/javascript
 20. No ifs no buts https://www.codewars.com/kata/592915cc1fad49252f000006/train/javascript
 21. Exclusive "or" (xor) Logical Operator https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/train/javascript
+22. Third Angle of a Triangle https://www.codewars.com/kata/5a023c426975981341000014/train/javascript
 
