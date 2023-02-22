@@ -23,4 +23,5 @@
 22. Third Angle of a Triangle https://www.codewars.com/kata/5a023c426975981341000014/train/javascript
 23. Simple multiplication https://www.codewars.com/kata/583710ccaa6717322c000105
 24. Reversed Words https://www.codewars.com/kata/51c8991dee245d7ddf00000e
+25. Crash Override https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f/javascript
 
