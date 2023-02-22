@@ -22,4 +22,5 @@
 21. Exclusive "or" (xor) Logical Operator https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/train/javascript
 22. Third Angle of a Triangle https://www.codewars.com/kata/5a023c426975981341000014/train/javascript
 23. Simple multiplication https://www.codewars.com/kata/583710ccaa6717322c000105
+24. Reversed Words https://www.codewars.com/kata/51c8991dee245d7ddf00000e
 

@@ -1,2 +1,8 @@
 
-const otherAngle = (a, b) => 180 - (a + b);
+const obj = {
+    a: 1,
+    b: 2,
+    c: 3
+}
+const {a, ...rest} = obj;
+console.log(rest)
