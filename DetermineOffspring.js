@@ -1,0 +1,1 @@
+const chromosomeCheck = (sperm) => `"Congratulations! You're going to have ${/[Yy]/.test(sperm) ? 'son' : 'daughter'}`

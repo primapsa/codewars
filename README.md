@@ -25,4 +25,5 @@
 24. Reversed Words https://www.codewars.com/kata/51c8991dee245d7ddf00000e
 25. Crash Override https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f/javascript
 26. Be Concise IV - Index of an element in an array https://www.codewars.com/kata/5703c093022cd1aae90012c9
+27. Determine offspring sex based on genes XX and XY chromosomes https://www.codewars.com/kata/56530b444e831334c0000020/train/javascript
 
