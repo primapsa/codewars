@@ -27,4 +27,5 @@
 26. Be Concise IV - Index of an element in an array https://www.codewars.com/kata/5703c093022cd1aae90012c9
 27. Determine offspring sex based on genes XX and XY chromosomes https://www.codewars.com/kata/56530b444e831334c0000020/train/javascript
 28. Localize The Barycenter of a Triangle https://www.codewars.com/kata/5601c5f6ba804403c7000004
+29. Be Concise I - The Ternary Operator https://www.codewars.com/kata/56f3f6a82010832b02000f38/train/javascript
 
