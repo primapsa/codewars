@@ -29,4 +29,5 @@
 28. Localize The Barycenter of a Triangle https://www.codewars.com/kata/5601c5f6ba804403c7000004
 29. Be Concise I - The Ternary Operator https://www.codewars.com/kata/56f3f6a82010832b02000f38/train/javascript
 30. Keep Hydrated https://www.codewars.com/kata/582cb0224e56e068d800003c/train/javascript
+31. Filter out the geese https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/train/javascript
 
