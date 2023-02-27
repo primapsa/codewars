@@ -34,4 +34,5 @@
 33. Indexed capitalization https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1/train/javascript
 34. Invert values https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
 35. String repeat https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
+36. Fix string case https://www.codewars.com/kata/5b180e9fedaa564a7000009a/train/javascript
 
