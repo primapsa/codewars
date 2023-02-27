@@ -32,4 +32,5 @@
 31. Filter out the geese https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/train/javascript
 32. Beginner Series #2 Clock https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
 33. Indexed capitalization https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1/train/javascript
+34. Invert values https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
 
