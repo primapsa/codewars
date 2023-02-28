@@ -35,4 +35,5 @@
 34. Invert values https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
 35. String repeat https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
 36. Fix string case https://www.codewars.com/kata/5b180e9fedaa564a7000009a/train/javascript
+37. Counting sheep https://www.codewars.com/kata/54edbc7200b811e956000556 
 
