@@ -36,4 +36,6 @@
 35. String repeat https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
 36. Fix string case https://www.codewars.com/kata/5b180e9fedaa564a7000009a/train/javascript
 37. Counting sheep https://www.codewars.com/kata/54edbc7200b811e956000556 
+38. Arithmetic progression https://www.codewars.com/kata/55caf1fd8063ddfa8e000018/train/javascript
+
 

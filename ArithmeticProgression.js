@@ -1,0 +1,1 @@
+const arithmeticSequenceElements = (a, d, n) => new Array(n).fill(a).map( (e,i) => e + i * d ).join(', ')
