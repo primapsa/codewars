@@ -38,5 +38,6 @@
 37. Counting sheep https://www.codewars.com/kata/54edbc7200b811e956000556 
 38. Arithmetic progression https://www.codewars.com/kata/55caf1fd8063ddfa8e000018/train/javascript
 39. How many lightsabers do you own? https://www.codewars.com/kata/51f9d93b4095e0a7200001b8
+40. Count the Digit https://www.codewars.com/kata/566fc12495810954b1000030/train/javascript
 
 
