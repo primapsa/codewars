@@ -39,5 +39,6 @@
 38. Arithmetic progression https://www.codewars.com/kata/55caf1fd8063ddfa8e000018/train/javascript
 39. How many lightsabers do you own? https://www.codewars.com/kata/51f9d93b4095e0a7200001b8
 40. Count the Digit https://www.codewars.com/kata/566fc12495810954b1000030/train/javascript
+41. Trimming a string https://www.codewars.com/kata/563fb342f47611dae800003c/train/javascript
 
 
