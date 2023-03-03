@@ -41,5 +41,6 @@
 40. Count the Digit https://www.codewars.com/kata/566fc12495810954b1000030/train/javascript
 41. Trimming a string https://www.codewars.com/kata/563fb342f47611dae800003c/train/javascript
 42. Greet Me https://www.codewars.com/kata/535474308bb336c9980006f2/train/javascript
+43. Sum a list but ignore any duplicates https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2
 
 
