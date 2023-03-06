@@ -44,5 +44,7 @@
 43. Sum a list but ignore any duplicates https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2
 44. Ch4113ng3 https://www.codewars.com/kata/59e9f404fc3c49ab24000112
 45. Band name generator https://www.codewars.com/kata/59727ff285281a44e3000011
+46. - Merge overlapping strings https://www.codewars.com/kata/61c78b57ee4be50035d28d42
+47. Powers of 2 https://www.codewars.com/kata/57a083a57cb1f31db7000028
 
 
