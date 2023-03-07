@@ -46,5 +46,6 @@
 45. Band name generator https://www.codewars.com/kata/59727ff285281a44e3000011
 46. - Merge overlapping strings https://www.codewars.com/kata/61c78b57ee4be50035d28d42
 47. Powers of 2 https://www.codewars.com/kata/57a083a57cb1f31db7000028
+48. Keep the Order https://www.codewars.com/kata/582aafca2d44a4a4560000e7
 
 
