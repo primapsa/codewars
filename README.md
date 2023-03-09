@@ -48,5 +48,6 @@
 47. Powers of 2 https://www.codewars.com/kata/57a083a57cb1f31db7000028
 48. Keep the Order https://www.codewars.com/kata/582aafca2d44a4a4560000e7
 49. vowelOne https://www.codewars.com/kata/580751a40b5a777a200000a1
+50. Changing letters https://www.codewars.com/kata/5831c204a31721e2ae000294/train/javascript
 
 
