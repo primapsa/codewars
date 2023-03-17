@@ -49,5 +49,7 @@
 48. Keep the Order https://www.codewars.com/kata/582aafca2d44a4a4560000e7
 49. vowelOne https://www.codewars.com/kata/580751a40b5a777a200000a1
 50. Changing letters https://www.codewars.com/kata/5831c204a31721e2ae000294/train/javascript
+51. Keypad horror https://www.codewars.com/kata/5572392fee5b0180480001ae/train/javascript
+52. Reverse words https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
 
 
