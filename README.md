@@ -51,5 +51,8 @@
 50. Changing letters https://www.codewars.com/kata/5831c204a31721e2ae000294/train/javascript
 51. Keypad horror https://www.codewars.com/kata/5572392fee5b0180480001ae/train/javascript
 52. Reverse words https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
+53. - SimplFun#399 https://www.codewars.com/kata/5be0f1786279697939000157/train/javascript
+54. Double value every next call https://www.codewars.com/kata/632408defa1507004aa4f2b5/javascript
+
 
 
