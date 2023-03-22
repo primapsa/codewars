@@ -55,6 +55,7 @@
 54. Double value every next call https://www.codewars.com/kata/632408defa1507004aa4f2b5/javascript
 55. Remove String Spaces https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript
 56. Simple Change Machine https://www.codewars.com/kata/57238766214e4b04b8000011/train/javascript
+57. Find Multiples of a Number https://www.codewars.com/kata/58ca658cc0d6401f2700045f/javascript
 
 
 
