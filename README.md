@@ -57,6 +57,7 @@
 56. Simple Change Machine https://www.codewars.com/kata/57238766214e4b04b8000011/train/javascript
 57. Find Multiples of a Number https://www.codewars.com/kata/58ca658cc0d6401f2700045f/javascript
 58. Find Maximum and Minimum Values of a List https://www.codewars.com/kata/577a98a6ae28071780000989/javascript
+59. Is your period late https://www.codewars.com/kata/578a8a01e9fd1549e50001f1/javascript
 
 
 
