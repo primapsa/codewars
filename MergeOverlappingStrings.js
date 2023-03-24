@@ -1,13 +1,11 @@
 function mergeStrings(first, second) {
-    let position = second.length;
-    while (position){
-        let substring= second.slice(0,position)
-        let regExp = new RegExp(""+substring + "$")
-        if(regExp.test(first)){
-            return first + second.slice(position)
-        }
-        --position;
+    let postion = second.length
+    while (postion) {
+        let substr = second.slice(0, postion)
+        if(first.endsWith(substr)) return first + second.slice(postion)
+        postion--;
     }
-return first + second;
+    return first + second
 }
+//mergeStrings=(a,b)=>!a||b.startsWith(a)?b:a[0]+mergeStrings(a.slice(1),b)
 
