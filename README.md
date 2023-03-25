@@ -59,6 +59,7 @@
 58. Find Maximum and Minimum Values of a List https://www.codewars.com/kata/577a98a6ae28071780000989/javascript
 59. Is your period late https://www.codewars.com/kata/578a8a01e9fd1549e50001f1/javascript
 60. Sum The Strings https://www.codewars.com/kata/5966e33c4e686b508700002d/train/javascript
+61. You Can't Code Under Pressure #1 https://www.codewars.com/kata/53ee5429ba190077850011d4/train/javascript
 
 
 
