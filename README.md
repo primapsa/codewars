@@ -62,6 +62,7 @@
 61. You Can't Code Under Pressure #1 https://www.codewars.com/kata/53ee5429ba190077850011d4/train/javascript
 62. OOP: Object Oriented Piracy https://www.codewars.com/kata/54fe05c4762e2e3047000add/train/javascript
 63. Is it a palindrome? https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/train/javascript
+64. Opposites Attract https://www.codewars.com/kata/555086d53eac039a2a000083/train/javascript
 
 
 
