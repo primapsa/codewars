@@ -64,6 +64,7 @@
 63. Is it a palindrome? https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/train/javascript
 64. Opposites Attract https://www.codewars.com/kata/555086d53eac039a2a000083/train/javascript
 65. Descending Order https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript
+66. Cat years, Dog years https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
 
 
 
