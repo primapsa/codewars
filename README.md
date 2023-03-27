@@ -65,6 +65,7 @@
 64. Opposites Attract https://www.codewars.com/kata/555086d53eac039a2a000083/train/javascript
 65. Descending Order https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript
 66. Cat years, Dog years https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
+67. The fusc function -- Part 1 https://www.codewars.com/kata/570409d3d80ec699af001bf9/train/javascript
 
 
 
