@@ -67,6 +67,7 @@
 66. Cat years, Dog years https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
 67. The fusc function -- Part 1 https://www.codewars.com/kata/570409d3d80ec699af001bf9/train/javascript
 68. MakeUpperCase https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/javascript
+69. "this" is a problem https://www.codewars.com/kata/547c71fdc5b2b38db1000098/train/javascript
 
 
 
