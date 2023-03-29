@@ -66,6 +66,7 @@
 65. Descending Order https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript
 66. Cat years, Dog years https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
 67. The fusc function -- Part 1 https://www.codewars.com/kata/570409d3d80ec699af001bf9/train/javascript
+68. MakeUpperCase https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/javascript
 
 
 
