@@ -69,6 +69,7 @@
 68. MakeUpperCase https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/javascript
 69. "this" is a problem https://www.codewars.com/kata/547c71fdc5b2b38db1000098/train/javascript
 70. Jenny the youngest detective https://www.codewars.com/kata/58b972cae826b960a300003e/train/javascript
+71. Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript
 
 
 
