@@ -70,6 +70,7 @@
 69. "this" is a problem https://www.codewars.com/kata/547c71fdc5b2b38db1000098/train/javascript
 70. Jenny the youngest detective https://www.codewars.com/kata/58b972cae826b960a300003e/train/javascript
 71. Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript
+72. Flatten and sort an array https://www.codewars.com/kata/57ee99a16c8df7b02d00045f/train/javascript
 
 
 
