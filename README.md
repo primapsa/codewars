@@ -74,6 +74,7 @@
 73. Who wins the card game? https://www.codewars.com/kata/5a03157f8ba914fcf50000d4/train/javascript
 74. Maximum Triplet Sum https://www.codewars.com/kata/5aa1bcda373c2eb596000112/train/javascript
 75. Reducing by steps https://www.codewars.com/kata/56efab15740d301ab40002ee/train/javascript
+76. Sushi-go-round (Beginner's) https://www.codewars.com/kata/59619e4609868dd923000041/train/javascript
 
 
 
