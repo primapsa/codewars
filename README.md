@@ -76,6 +76,7 @@
 75. Reducing by steps https://www.codewars.com/kata/56efab15740d301ab40002ee/train/javascript
 76. Sushi-go-round (Beginner's) https://www.codewars.com/kata/59619e4609868dd923000041/train/javascript
 77. Two Sum https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/javascript
+78. Distance from the average https://www.codewars.com/kata/568ff914fc7a40a18500005c/train/javascript
 
 
 
