@@ -77,6 +77,9 @@
 76. Sushi-go-round (Beginner's) https://www.codewars.com/kata/59619e4609868dd923000041/train/javascript
 77. Two Sum https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/javascript
 78. Distance from the average https://www.codewars.com/kata/568ff914fc7a40a18500005c/train/javascript
+79. Simple number divisibility https://www.codewars.com/kata/5b165654c8be0d17f40000a3/train/javascript
+80. Valid Parentheses https://www.codewars.com/kata/6411b91a5e71b915d237332d/train/javascript
+
 
 
 
