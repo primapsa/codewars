@@ -80,6 +80,7 @@
 79. Simple number divisibility https://www.codewars.com/kata/5b165654c8be0d17f40000a3/train/javascript
 80. Valid Parentheses https://www.codewars.com/kata/6411b91a5e71b915d237332d/train/javascript
 81. Fizz Buzz Reloaded https://www.codewars.com/kata/5adbc57f0774dbaa5600011b/train/javascript
+82. Greatest Position Distance Between Matching Array Values https://www.codewars.com/kata/5442e4fc7fc447653a0000d5/train/javascript
 
     
 
