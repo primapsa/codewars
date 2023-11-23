@@ -83,6 +83,7 @@
 82. Greatest Position Distance Between Matching Array Values https://www.codewars.com/kata/5442e4fc7fc447653a0000d5/train/javascript
 83. The Office II - Boredom Score https://www.codewars.com/kata/57ed4cef7b45ef8774000014/train/javascript
 84. Gravity Flip - https://www.codewars.com/kata/5f70c883e10f9e0001c89673/solutions/javascript
+85. Growth of a Population https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/javascript
 
 
     
