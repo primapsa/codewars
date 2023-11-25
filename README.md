@@ -85,6 +85,8 @@
 84. Gravity Flip - https://www.codewars.com/kata/5f70c883e10f9e0001c89673/solutions/javascript
 85. Growth of a Population https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/javascript
 86. Is n divisible by https://www.codewars.com/kata/558ee8415872565824000007/javascript
+87. Sort by Example https://www.codewars.com/kata/5747fcfce2fab91f43000697/javascript
+
 
 
     
