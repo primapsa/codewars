@@ -86,6 +86,8 @@
 85. Growth of a Population https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/javascript
 86. Is n divisible by https://www.codewars.com/kata/558ee8415872565824000007/javascript
 87. Sort by Example https://www.codewars.com/kata/5747fcfce2fab91f43000697/javascript
+88. Sort an array by value and index https://www.codewars.com/kata/58e0cb3634a3027180000040/train/javascript
+89. Leap Years https://www.codewars.com/kata/526c7363236867513f0005ca/train/javascript
 
 
 
