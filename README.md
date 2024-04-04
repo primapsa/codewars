@@ -89,6 +89,7 @@
 88. Sort an array by value and index https://www.codewars.com/kata/58e0cb3634a3027180000040/train/javascript
 89. Leap Years https://www.codewars.com/kata/526c7363236867513f0005ca/train/javascript
 90. Noonerize Me  https://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd/javascript
+91. Square Every Digit https://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd/javascript
 
 
 
