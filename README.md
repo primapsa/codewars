@@ -91,6 +91,7 @@
 90. Noonerize Me  https://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd/javascript
 91. Square Every Digit https://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd/javascript
 92. List Filtering https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
+93. Mumbling https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
 
 
 
