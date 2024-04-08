@@ -92,6 +92,7 @@
 91. Square Every Digit https://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd/javascript
 92. List Filtering https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
 93. Mumbling https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
+94. Sum of the first nth term of Series https://www.codewars.com/kata/555eded1ad94b00403000071/train/javascript
 
 
 
