@@ -94,6 +94,7 @@
 93. Mumbling https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
 94. Sum of the first nth term of Series https://www.codewars.com/kata/555eded1ad94b00403000071/train/javascript
 95. Working with arrays I (and why your code fails in some katas) https://www.codewars.com/kata/5a4ff3c5fd56cbaf9800003e/train/javascript
+96. Stop gninnipS My sdroW!  https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript
 
 
 
