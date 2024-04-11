@@ -96,6 +96,7 @@
 95. Working with arrays I (and why your code fails in some katas) https://www.codewars.com/kata/5a4ff3c5fd56cbaf9800003e/train/javascript
 96. Stop gninnipS My sdroW!  https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript
 97. Find the odd int https://www.codewars.com/kata/54da5a58ea159efa38000836
+98. Who likes it? https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript
 
 
 
