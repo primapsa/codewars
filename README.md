@@ -97,6 +97,8 @@
 96. Stop gninnipS My sdroW!  https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript
 97. Find the odd int https://www.codewars.com/kata/54da5a58ea159efa38000836
 98. Who likes it? https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript
+99. Array.diff https://www.codewars.com/kata/523f5d21c841566fde000009
+100. Find The Parity Outlier https://www.codewars.com/kata/5526fc09a1bbd946250002dc
 
 
 
