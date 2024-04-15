@@ -99,6 +99,7 @@
 98. Who likes it? https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript
 99. Array.diff https://www.codewars.com/kata/523f5d21c841566fde000009
 100. Find The Parity Outlier https://www.codewars.com/kata/5526fc09a1bbd946250002dc
+101. Counting Duplicates https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
 
 
 
