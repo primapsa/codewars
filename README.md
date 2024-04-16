@@ -100,6 +100,7 @@
 99. Array.diff https://www.codewars.com/kata/523f5d21c841566fde000009
 100. Find The Parity Outlier https://www.codewars.com/kata/5526fc09a1bbd946250002dc
 101. Counting Duplicates https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
+102. Moving Zeros To The End https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript
 
 
 
