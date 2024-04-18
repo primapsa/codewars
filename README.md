@@ -103,6 +103,7 @@
 102. Moving Zeros To The End https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript
 103. The Hashtag Generator https://www.codewars.com/kata/52449b062fb80683ec000024/javascript
 104. RGB To Hex Conversion https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript
+105. First non-repeating character https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/javascript
 
 
 
